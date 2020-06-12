@@ -75,7 +75,7 @@
         theme(plot.caption = element_text(size = 5, vjust = 35, hjust = 0.5))
       
       
-      # Nawenge Village Compesation payment mode Pie Chart Plot 
+      # Nawenge Village Compesation payment mode Pie Chart Plot- 
       df_Nawenge <- df_payment %>% 
         filter(Village == "Nawenge")
       ggplot(data = df_Nawenge, aes(x = "", y = Payment_Mode_Per, fill = Mode.of.Compersation))+
