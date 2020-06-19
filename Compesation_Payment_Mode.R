@@ -1,5 +1,6 @@
- # Household Survey data analysis - COMPENSATION  PAYMENT MODE 
-      # Harmonic Biosphere Company Limited 
+      # Household Survey data analysis - COMPENSATION  PAYMENT MODE 
+      # Harmonic Biosphere Company Limited
+      # W. Simbila
       # June, 2020
       
       # Set working directory --------------------------------------------------------
