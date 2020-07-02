@@ -114,7 +114,7 @@
         theme(legend.title = element_text(face = "bold"))+
         theme(plot.caption = element_text(size = 5, vjust = 35, hjust = 0.5))
       
-      write.csv(df_Water, "water_dryseason.csv")
+      # write.csv(df_Water, "water_dryseason.csv")
       
       # 1 (b).Distance variation to the houses - Dry Season --------------------------------- 
       df_Water <- df %>% 
