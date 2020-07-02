@@ -1,6 +1,6 @@
       # Household Survey data analysis - ENERGY SOURCES FOR LIGHTING AND COOKING
       # Harmonic Biosphere Company Limited
-      # Wilbert J. Simbila
+      # W. J. Simbila
       # June, 2020
       
       # Set working directory --------------------------------------------------------
