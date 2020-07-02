@@ -1,5 +1,6 @@
- # Household Survey data analysis
+      # Household Survey data analysis - WATER SORCES
       # Harmonic Biosphere Company Limited 
+      # W. J. Simbila
       # June, 2020
       
       # Set working directory --------------------------------------------------------
